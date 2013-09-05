@@ -11,17 +11,35 @@
          %%, expr_parse_2/1, expr_print_2/1, expr_eval_2/1
         ]).
 %% sum
-sum(_N) -> 
-    _N + sum(_N-1).
+sum(N) when N > 0 ->
+    N + sum(N - 1);
+sum(0) ->
+    0;
+sum(_N) ->
+    ok.
 
 %% mul
+mul(N) when N > 0 ->
+    N * mul(N - 1);
+mul(0) ->
+    1;
 mul(_N) -> ok.
 
 %% take_snd
 take_snd(_List) -> ok.
 
 %% Fibonacci
-fib(_N) -> ok.
+fib(Elements) ->
+    fib_helper(Elements, 0, 1, 1).
+%fib(_N) -> ok.
+
+fib_helper(Elements, Counter, El1, El2) when Counter < Elements ->
+    %Num1 = El1,
+    %Num2 = El2,
+    El1 + El2 + fib_helper(Elements, Counter+1, El2, El1 + El2);
+fib_helper(_Elements, _Counter, _El1, _El2) ->
+    0.
+
 
 %% Efficient fib.
 %% eff_fib(_N) -> ok.
