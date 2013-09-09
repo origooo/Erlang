@@ -50,12 +50,34 @@ fib_helper(0, Sum, _Next) ->
 %% eff_fib(_N) -> ok.
 
 %% Digitify a number
-digitize(N) when N >= 0 ->
-    [Digit || Digit <- N];
-digitize(_N) -> 0.
+digitize(N) ->
+    digitize_helper(N, []).
+
+digitize_helper(N, Acc) when N > 0 ->
+    digitize_helper(N div 10, [N rem 10 | Acc]);
+digitize_helper(0, Acc) ->
+    Acc.
 
 %% is_happy
-is_happy(_N) -> ok.
+is_happy(N) ->
+    case sum_elements(digitize(N)) of
+	4 -> false;
+	16 -> false;
+	20 -> false;
+	37 -> false;
+	42 -> false;
+	58 -> false;
+	89 -> false;
+	145 -> false;
+	Other -> is_happy(Other)
+    end.
+
+sum_elements([H | T]) when H /= [] ->
+    H * H + sum_elements(T);
+sum_elements([]) -> 
+    0.
+
+%is_happy(_N) -> ok.
 
 %% all_happy
 all_happy(_N, _M) -> ok.
