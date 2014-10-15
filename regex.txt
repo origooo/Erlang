@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://articlefeeds.nasdaq.com/~d/styles/itemcontent.css"?><rss xmlns:a10="http://www.w3.org/2005/Atom" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+  <channel xmlns:nasdaq="http://nasdaq.com/reference/feeds/1.0/">
+    <title>Latest Articles in Economy</title>
+    <description />
+    <language>EN-US</language>
+    <lastBuildDate>Mon, 21 Oct 2013 07:31:50 -0400</lastBuildDate>
+    <category>Economy</category>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://articlefeeds.nasdaq.com/nasdaq/categories?category=Economy" /><feedburner:info uri="nasdaq/categories" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item xml:base="http://www.nasdaq.com/article/signs-of-growth-from-todays-sp-reports-economic-highlights-cm289117">
+      <guid isPermaLink="false">289117</guid>
+      <link>http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/9AXu-5TuhNo/signs-of-growth-from-todays-sp-reports-economic-highlights-cm289117</link>
+      <title>Signs of growth from todays S&P reports - Economic Highlights</title>
+      <description>Positive GDP growth data out of China and another day of mixed Q3 earnings reports provide the backdrop for today's trading action. The China data may not be enough to answer all questions about that country's growth<img src="http://feeds.feedburner.com/~r/nasdaq/categories/~4/9AXu-5TuhNo" height="1" width="1"/></description>
+      <pubDate>Fri, 18 Oct 2013 11:07:53 -0400</pubDate>
+      <a10:updated>2013-10-18T11:07:53-04:00</a10:updated>
+    <feedburner:origLink>http://www.nasdaq.com/article/signs-of-growth-from-todays-sp-reports-economic-highlights-cm289117</feedburner:origLink></item>
+    <item xml:base="http://www.nasdaq.com/article/back-in-business-but-damage-has-been-done-cm289105">
+      <guid isPermaLink="false">289105</guid>
+      <link>http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/g0bluCP_QMw/back-in-business-but-damage-has-been-done-cm289105</link>
+      <title>Back In Business but Damage Has Been Done</title>
+      <description><img src="http://feeds.feedburner.com/~r/nasdaq/categories/~4/g0bluCP_QMw" height="1" width="1"/></description>
+      <pubDate>Fri, 18 Oct 2013 09:28:02 -0400</pubDate>
+      <a10:updated>2013-10-18T09:28:02-04:00</a10:updated>
+    <feedburner:origLink>http://www.nasdaq.com/article/back-in-business-but-damage-has-been-done-cm289105</feedburner:origLink></item>
+    <item xml:base="http://www.nasdaq.com/article/market-primer-friday-october-18-sp-500-hits-record-high-dollar-suffers-cm289059">
+      <guid isPermaLink="false">289059</guid>
+      <link>http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/Ui0GgG4efvA/market-primer-friday-october-18-sp-500-hits-record-high-dollar-suffers-cm289059</link>
+      <title>Market Primer: Friday, October 18: S&P 500 Hits Record High, Dollar Suffers</title>
+      <description>The US government's 11th hour deal on Thursday helped more than 80 percent of S&P 500 stocks rise in value on Thursday. The index broke its intraday trading record and closed at an all time high. Technology was the<img src="http://feeds.feedburner.com/~r/nasdaq/categories/~4/Ui0GgG4efvA" height="1" width="1"/></description>
+      <pubDate>Fri, 18 Oct 2013 08:15:59 -0400</pubDate>
+      <a10:updated>2013-10-18T08:15:59-04:00</a10:updated>
+    <feedburner:origLink>http://www.nasdaq.com/article/market-primer-friday-october-18-sp-500-hits-record-high-dollar-suffers-cm289059</feedburner:origLink></item>
+    <item xml:base="http://www.nasdaq.com/article/how-the-shutdown-caused-an-information-fog-cm288862">
+      <guid isPermaLink="false">288862</guid>
+      <link>http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/M6wVwfcg_Yc/how-the-shutdown-caused-an-information-fog-cm288862</link>
+      <title>How the Shutdown Caused an Information Fog</title>
+      <description>Pop quiz for all you economy watchers out there   What are the current US levels of . . .  Unemployment?CPI?Retail Sales?The answers?  We don't know. Nobody knows.  That's because one of the side effects<img src="http://feeds.feedburner.com/~r/nasdaq/categories/~4/M6wVwfcg_Yc" height="1" width="1"/></description>
+      <pubDate>Thu, 17 Oct 2013 19:06:22 -0400</pubDate>
+      <a10:updated>2013-10-17T19:06:22-04:00</a10:updated>
+    <feedburner:origLink>http://www.nasdaq.com/article/how-the-shutdown-caused-an-information-fog-cm288862</feedburner:origLink></item>
+    <item xml:base="http://www.nasdaq.com/article/earning-season-in-focus-again-economic-highlights-cm288607">
+      <guid isPermaLink="false">288607</guid>
+      <link>http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/IyBnnXYpp6U/earning-season-in-focus-again-economic-highlights-cm288607</link>
+      <title>Earning Season in Focus again - Economic Highlights</title>
+      <description>Thursday, October 17, 2013??????With the Washington impasse finally behind us, for now at least, markets can start paying attention to the 2013 Q3 earnings season and other factors that really matter. There isn't much inspiring on the<img src="http://feeds.feedburner.com/~r/nasdaq/categories/~4/IyBnnXYpp6U" height="1" width="1"/></description>
+      <pubDate>Thu, 17 Oct 2013 11:08:51 -0400</pubDate>
+      <a10:updated>2013-10-17T11:08:51-04:00</a10:updated>
+    <feedburner:origLink>http://www.nasdaq.com/article/earning-season-in-focus-again-economic-highlights-cm288607</feedburner:origLink></item>
+    <item xml:base="http://www.nasdaq.com/article/market-primer-thursday-october-17-us-debt-deal-kicks-the-can-cm288520">
+      <guid isPermaLink="false">288520</guid>
+      <link>http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/veouqRj2LEk/market-primer-thursday-october-17-us-debt-deal-kicks-the-can-cm288520</link>
+      <title>Market Primer: Thursday, October 17: US Debt Deal Kicks The Can</title>
+      <description>Congress made a last minute deal with just hours to go before the budget deadline and avoided a sovereign default. The US government agreed to a bill which will reopen the Federal government until January 15 and extend the<img src="http://feeds.feedburner.com/~r/nasdaq/categories/~4/veouqRj2LEk" height="1" width="1"/></description>
+      <pubDate>Thu, 17 Oct 2013 07:55:54 -0400</pubDate>
+      <a10:updated>2013-10-17T07:55:54-04:00</a10:updated>
+    <feedburner:origLink>http://www.nasdaq.com/article/market-primer-thursday-october-17-us-debt-deal-kicks-the-can-cm288520</feedburner:origLink></item>
+    <item xml:base="http://www.nasdaq.com/article/washington-woes-drive-etf-flows-cm288341">
+      <guid isPermaLink="false">288341</guid>
+      <link>http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/HwJxu-3telQ/washington-woes-drive-etf-flows-cm288341</link>
+      <title>Washington Woes Drive ETF Flows</title>
+      <description>With the constant barrage of news reports discussing the Fed's actions , the government shutdown and the debt ceiling debacle, it's little wonder what's preoccupying the minds of investors these days.  A quick look at ETF flows over<img src="http://feeds.feedburner.com/~r/nasdaq/categories/~4/HwJxu-3telQ" height="1" width="1"/></description>
+      <pubDate>Fri, 18 Oct 2013 15:06:13 -0400</pubDate>
+      <a10:updated>2013-10-18T15:06:13-04:00</a10:updated>
+    <feedburner:origLink>http://www.nasdaq.com/article/washington-woes-drive-etf-flows-cm288341</feedburner:origLink></item>
+    <item xml:base="http://www.nasdaq.com/article/the-short-longterm-implications-of-a-minimalist-debt-ceiling-deal-cm288178">
+      <guid isPermaLink="false">288178</guid>
+      <link>http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/Lkyr57b7W54/the-short-longterm-implications-of-a-minimalist-debt-ceiling-deal-cm288178</link>
+      <title>The Short & Long-Term Implications of  A Minimalist Debt Ceiling Deal</title>
+      <description>A deal to extend the debt ceiling and re open the government is emerging. Assuming it passes by tomorrow or shortly thereafter, the economy and markets will be spared the worst case scenario of a technical default.<img src="http://feeds.feedburner.com/~r/nasdaq/categories/~4/Lkyr57b7W54" height="1" width="1"/></description>
+      <pubDate>Thu, 17 Oct 2013 10:06:07 -0400</pubDate>
+      <a10:updated>2013-10-17T10:06:07-04:00</a10:updated>
+    <feedburner:origLink>http://www.nasdaq.com/article/the-short-longterm-implications-of-a-minimalist-debt-ceiling-deal-cm288178</feedburner:origLink></item>
+    <item xml:base="http://www.nasdaq.com/article/why-wont-the-dollar-just-collapse-cm288086">
+      <guid isPermaLink="false">288086</guid>
+      <link>http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/DjgF2woeiXM/why-wont-the-dollar-just-collapse-cm288086</link>
+      <title>Why Won’t the Dollar Just Collapse?</title>
+      <description><img src="http://feeds.feedburner.com/~r/nasdaq/categories/~4/DjgF2woeiXM" height="1" width="1"/></description>
+      <pubDate>Wed, 16 Oct 2013 11:45:07 -0400</pubDate>
+      <a10:updated>2013-10-16T11:45:07-04:00</a10:updated>
+    <feedburner:origLink>http://www.nasdaq.com/article/why-wont-the-dollar-just-collapse-cm288086</feedburner:origLink></item>
+    <item xml:base="http://www.nasdaq.com/article/midmorning-market-update-markets-rise-bank-of-america-posts-higher-profit-cm288117">
+      <guid isPermaLink="false">288117</guid>
+      <link>http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/j88g37r1bwE/midmorning-market-update-markets-rise-bank-of-america-posts-higher-profit-cm288117</link>
+      <title>Mid-Morning Market Update: Markets Rise; Bank of America Posts Higher Profit</title>
+      <description>Following the market opening Wednesday, the Dow traded up 1.04 percent to 15,326.24 while the NASDAQ surged 0.99 percent to 3,831.43. The S&P also rose, gaining 1.05 percent to 1,715.81.  Top Headline Bank of America (NYSE<img src="http://feeds.feedburner.com/~r/nasdaq/categories/~4/j88g37r1bwE" height="1" width="1"/></description>
+      <pubDate>Wed, 16 Oct 2013 11:55:44 -0400</pubDate>
+      <a10:updated>2013-10-16T11:55:44-04:00</a10:updated>
+    <feedburner:origLink>http://www.nasdaq.com/article/midmorning-market-update-markets-rise-bank-of-america-posts-higher-profit-cm288117</feedburner:origLink></item>
+    <item xml:base="http://www.nasdaq.com/article/debt-ceiling-default-looms-economic-highlights-cm288029">
+      <guid isPermaLink="false">288029</guid>
+      <link>http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/qLgk3JLdFDw/debt-ceiling-default-looms-economic-highlights-cm288029</link>
+      <title>Debt Ceiling default looms - Economic Highlights</title>
+      <description>House Republicans on Tuesday couldn't organize to pass their own resolution, and the stock market tanked immediately upon the news. Senators on both sides of the aisle put down their double bourbons and rejoined to carve out<img src="http://feeds.feedburner.com/~r/nasdaq/categories/~4/qLgk3JLdFDw" height="1" width="1"/></description>
+      <pubDate>Wed, 16 Oct 2013 10:48:17 -0400</pubDate>
+      <a10:updated>2013-10-16T10:48:17-04:00</a10:updated>
+    <feedburner:origLink>http://www.nasdaq.com/article/debt-ceiling-default-looms-economic-highlights-cm288029</feedburner:origLink></item>
+    <item xml:base="http://www.nasdaq.com/article/investing-for-real-people-investor-goals-are-the-same-but-the-solutions-have-changed-cm287934">
+      <guid isPermaLink="false">287934</guid>
+      <link>http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/qoCopSIORAo/investing-for-real-people-investor-goals-are-the-same-but-the-solutions-have-changed-cm287934</link>
+      <title>Investing for Real People: Investor goals are the same, but the solutions have changed.</title>
+      <description><img src="http://feeds.feedburner.com/~r/nasdaq/categories/~4/qoCopSIORAo" height="1" width="1"/></description>
+      <pubDate>Wed, 16 Oct 2013 12:31:06 -0400</pubDate>
+      <a10:updated>2013-10-16T12:31:06-04:00</a10:updated>
+    <feedburner:origLink>http://www.nasdaq.com/article/investing-for-real-people-investor-goals-are-the-same-but-the-solutions-have-changed-cm287934</feedburner:origLink></item>
+    <item xml:base="http://www.nasdaq.com/article/two-more-reasons-to-like-equities-growth-inflation-cm287717">
+      <guid isPermaLink="false">287717</guid>
+      <link>http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/xylCltmfh3Y/two-more-reasons-to-like-equities-growth-inflation-cm287717</link>
+      <title>Two More Reasons to Like Equities: Growth & Inflation</title>
+      <description>I've long been advocating that investors should overweight equities relative to bonds , and while equity valuations are no longer at their cheapest and there are risks inherent in stocks, I still hold this view. In fact,<img src="http://feeds.feedburner.com/~r/nasdaq/categories/~4/xylCltmfh3Y" height="1" width="1"/></description>
+      <pubDate>Tue, 15 Oct 2013 18:46:01 -0400</pubDate>
+      <a10:updated>2013-10-15T18:46:01-04:00</a10:updated>
+    <feedburner:origLink>http://www.nasdaq.com/article/two-more-reasons-to-like-equities-growth-inflation-cm287717</feedburner:origLink></item>
+    <item xml:base="http://www.nasdaq.com/article/hope-for-a-deal-today-with-a-mixed-set-of-earnings-economic-highlights-cm287531">
+      <guid isPermaLink="false">287531</guid>
+      <link>http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/RaSJkZP_5m4/hope-for-a-deal-today-with-a-mixed-set-of-earnings-economic-highlights-cm287531</link>
+      <title>Hope for a Deal today ? with a mixed set of earnings - Economic Highlights</title>
+      <description>The stock market is hoping for the Senate negotiations to result in a deal and all indications are that a deal will get announced sometime today. This will be no more than a kick the cane down the road<img src="http://feeds.feedburner.com/~r/nasdaq/categories/~4/RaSJkZP_5m4" height="1" width="1"/></description>
+      <pubDate>Tue, 15 Oct 2013 11:47:38 -0400</pubDate>
+      <a10:updated>2013-10-15T11:47:38-04:00</a10:updated>
+    <feedburner:origLink>http://www.nasdaq.com/article/hope-for-a-deal-today-with-a-mixed-set-of-earnings-economic-highlights-cm287531</feedburner:origLink></item>
+    <item xml:base="http://www.nasdaq.com/article/market-primer-tuesday-october-15-tuesday-could-be-deal-day-cm287400">
+      <guid isPermaLink="false">287400</guid>
+      <link>http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/tfbkZH8e3k4/market-primer-tuesday-october-15-tuesday-could-be-deal-day-cm287400</link>
+      <title>Market Primer: Tuesday, October 15: Tuesday Could Be 'Deal Day'</title>
+      <description>US Senators struck an optimistic tone following talks on Monday, leading many to believe that a deal to reopen the government and avoid default was right around the corner. Senate Majority Leader Harry Reid hinted at the possibility of<img src="http://feeds.feedburner.com/~r/nasdaq/categories/~4/tfbkZH8e3k4" height="1" width="1"/></description>
+      <pubDate>Tue, 15 Oct 2013 08:15:52 -0400</pubDate>
+      <a10:updated>2013-10-15T08:15:52-04:00</a10:updated>
+    <feedburner:origLink>http://www.nasdaq.com/article/market-primer-tuesday-october-15-tuesday-could-be-deal-day-cm287400</feedburner:origLink></item>
+  </channel>
+</rss>
+.

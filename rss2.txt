@@ -1,0 +1,65 @@
+[[{description,"Positive GDP growth data out of China and another day of mixed Q3 earnings reports provide the backdrop for today's trading action. The China data may not be enough to answer all questions about that country's growth"},
+  {title,"&amp;P reports - Economic Highlights"},
+  {title,"Signs of growth from todays S"},
+  {link,"http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/9AXu-5TuhNo/signs-of-growth-from-todays-sp-reports-economic-highlights-cm289117"}]].
+[[{title,"Back In Business but Damage Has Been Done"},
+  {link,"http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/g0bluCP_QMw/back-in-business-but-damage-has-been-done-cm289105"}]|
+ ok].
+[[{description,"&P 500 stocks rise in value on Thursday. The index broke its intraday trading record and closed at an all time high. Technology was the"},
+  {description,"The US government's 11th hour deal on Thursday helped more than 80 percent of S"},
+  {title,"&amp;P 500 Hits Record High, Dollar Suffers"},
+  {title,"Market Primer: Friday, October 18: S"},
+  {link,"http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/Ui0GgG4efvA/market-primer-friday-october-18-sp-500-hits-record-high-dollar-suffers-cm289059"}]|
+ ok].
+[[{description,"Pop quiz for all you economy watchers out there   What are the current US levels of . . .  Unemployment?CPI?Retail Sales?The answers?  We don't know. Nobody knows.  That's because one of the side effects"},
+  {title,"How the Shutdown Caused an Information Fog"},
+  {link,"http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/M6wVwfcg_Yc/how-the-shutdown-caused-an-information-fog-cm288862"}]|
+ ok].
+[[{description,"Thursday, October 17, 2013??????With the Washington impasse finally behind us, for now at least, markets can start paying attention to the 2013 Q3 earnings season and other factors that really matter. There isn't much inspiring on the"},
+  {title,"Earning Season in Focus again - Economic Highlights"},
+  {link,"http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/IyBnnXYpp6U/earning-season-in-focus-again-economic-highlights-cm288607"}]|
+ ok].
+[[{description,"Congress made a last minute deal with just hours to go before the budget deadline and avoided a sovereign default. The US government agreed to a bill which will reopen the Federal government until January 15 and extend the"},
+  {title,"Market Primer: Thursday, October 17: US Debt Deal Kicks The Can"},
+  {link,"http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/veouqRj2LEk/market-primer-thursday-october-17-us-debt-deal-kicks-the-can-cm288520"}]|
+ ok].
+[[{description,"With the constant barrage of news reports discussing the Fed's actions , the government shutdown and the debt ceiling debacle, it's little wonder what's preoccupying the minds of investors these days.  A quick look at ETF flows over"},
+  {title,"Washington Woes Drive ETF Flows"},
+  {link,"http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/HwJxu-3telQ/washington-woes-drive-etf-flows-cm288341"}]|
+ ok].
+[[{description,"A deal to extend the debt ceiling and re open the government is emerging. Assuming it passes by tomorrow or shortly thereafter, the economy and markets will be spared the worst case scenario of a technical default."},
+  {title,"&amp; Long-Term Implications of  A Minimalist Debt Ceiling Deal"},
+  {title,"The Short "},
+  {link,"http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/Lkyr57b7W54/the-short-longterm-implications-of-a-minimalist-debt-ceiling-deal-cm288178"}]|
+ ok].
+[[{title,[87,104,121,32,87,111,110,8217,116,32,116,104,101,32,68,111,108,108,
+          97,114,32,74,117,115,116,32,67,111,108,108,97,112,115,101,63]},
+  {link,"http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/DjgF2woeiXM/why-wont-the-dollar-just-collapse-cm288086"}]|
+ ok].
+[[{description,"&P also rose, gaining 1.05 percent to 1,715.81.  Top Headline Bank of America (NYSE"},
+  {description,"Following the market opening Wednesday, the Dow traded up 1.04 percent to 15,326.24 while the NASDAQ surged 0.99 percent to 3,831.43. The S"},
+  {title,"Mid-Morning Market Update: Markets Rise; Bank of America Posts Higher Profit"},
+  {link,"http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/j88g37r1bwE/midmorning-market-update-markets-rise-bank-of-america-posts-higher-profit-cm288117"}]|
+ ok].
+[[{description,"House Republicans on Tuesday couldn't organize to pass their own resolution, and the stock market tanked immediately upon the news. Senators on both sides of the aisle put down their double bourbons and rejoined to carve out"},
+  {title,"Debt Ceiling default looms - Economic Highlights"},
+  {link,"http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/qLgk3JLdFDw/debt-ceiling-default-looms-economic-highlights-cm288029"}]|
+ ok].
+[[{title,"Investing for Real People: Investor goals are the same, but the solutions have changed."},
+  {link,"http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/qoCopSIORAo/investing-for-real-people-investor-goals-are-the-same-but-the-solutions-have-changed-cm287934"}]|
+ ok].
+[[{description,"I've long been advocating that investors should overweight equities relative to bonds , and while equity valuations are no longer at their cheapest and there are risks inherent in stocks, I still hold this view. In fact,"},
+  {title,"&amp; Inflation"},
+  {title,"Two More Reasons to Like Equities: Growth "},
+  {link,"http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/xylCltmfh3Y/two-more-reasons-to-like-equities-growth-inflation-cm287717"}]|
+ ok].
+[[{description,"The stock market is hoping for the Senate negotiations to result in a deal and all indications are that a deal will get announced sometime today. This will be no more than a kick the cane down the road"},
+  {title,"Hope for a Deal today ? with a mixed set of earnings - Economic Highlights"},
+  {link,"http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/RaSJkZP_5m4/hope-for-a-deal-today-with-a-mixed-set-of-earnings-economic-highlights-cm287531"}]|
+ ok].
+[[{description,"US Senators struck an optimistic tone following talks on Monday, leading many to believe that a deal to reopen the government and avoid default was right around the corner. Senate Majority Leader Harry Reid hinted at the possibility of"},
+  {title,"&#39;"},
+  {title,"&#39;Deal Day"},
+  {title,"Market Primer: Tuesday, October 15: Tuesday Could Be "},
+  {link,"http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/tfbkZH8e3k4/market-primer-tuesday-october-15-tuesday-could-be-deal-day-cm287400"}]|
+ ok].
