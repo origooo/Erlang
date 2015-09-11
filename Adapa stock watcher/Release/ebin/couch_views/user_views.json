@@ -1,0 +1,12 @@
+{
+   "_id": "_design/user_info",
+   "language": "javascript",
+   "views": {
+       "get_user": {
+           "map": "function(doc) {\n  emit(doc._id, doc.Password);\n}"
+       },
+       "get_symbols": {
+           "map": "function(doc) {\n  emit(doc._id, doc.Symbols);\n}"
+       }
+   }
+}

@@ -1,0 +1,6 @@
+{
+   "_id": "_design/update",
+   "updates": {
+       "hello": "function(doc, req) {if(!doc) {if (req.id) {var json = {_id : req.id}; today = new Date(); dd = today.getDay(); mm = today.getMonth()+1; yyyy = today.getFullYear(); second = today.getSeconds(); min = today.getMinutes(); hour = today.getHours(); if(dd<10){dd='0'+dd} if(mm<10){mm='0'+mm} if(second<10){second='0'+second} if(min<10){min='0'+min} if(hour<10){hour='0'+hour} var wholeDate=yyyy+'-'+mm+'-'+dd+', '+hour+':'+min+':'+second;json[wholeDate] = JSON.parse(req.body); return [json, 'New Doc Created']} return [null, 'Empty World'];} today = new Date(); dd = today.getDay(); mm = today.getMonth()+1; yyyy = today.getFullYear(); second = today.getSeconds(); min = today.getMinutes(); hour = today.getHours(); if(dd<10){dd='0'+dd} if(mm<10){mm='0'+mm} if(second<10){second='0'+second} if(min<10){min='0'+min} if(hour<10){hour='0'+hour} var wholeDate=yyyy+'-'+mm+'-'+dd+', '+hour+':'+min+':'+second; doc[wholeDate] = JSON.parse(req.body);  return[doc, 'Document Updated'];}"
+   }
+}

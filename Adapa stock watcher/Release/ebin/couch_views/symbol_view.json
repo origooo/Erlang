@@ -1,0 +1,13 @@
+{
+   "_id": "_design/symbols",
+
+   "language": "javascript",
+   "views": {
+       "get_symbols": {
+           "map": "function(doc) {\n  emit(null, null);\n}"
+       },
+       "get_company_data": {
+           "map": "function(doc) {\n  emit(doc.Symbol, doc.Name);\n}"
+       }
+   }
+}

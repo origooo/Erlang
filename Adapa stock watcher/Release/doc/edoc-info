@@ -1,0 +1,6 @@
+%% encoding: UTF-8
+{application,stocksadapa}.
+{packages,[]}.
+{modules,[batcher_server,dax_server,db_checker,head_sup,logger_server,
+          lse_server,mochijson,nasdaq_server,stocksadapa_app,sup,
+          symbol_server,symbols,sys_init,test_con]}.

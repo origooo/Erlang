@@ -1,0 +1,9 @@
+{
+   "_id": "_design/latestdata",
+   "language": "javascript",
+   "views": {
+       "latestData": {
+           "map": "function(doc) {\n  emit(doc._id, {\n                Name: doc.Data.Name, \n                Symbol: doc._id, \n                Data: doc.Data.StockData[doc.Data.StockData.length - 1]});\n}"
+       }
+   }
+}

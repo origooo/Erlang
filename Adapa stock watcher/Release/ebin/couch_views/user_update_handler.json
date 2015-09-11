@@ -1,0 +1,7 @@
+{
+   "_id": "_design/update",
+   "language": "javascript",
+   "updates": {
+       "update_user": "function(doc, req) {\n    var json = JSON.parse(req.body); \n    var Username = json.Username;\n    var Password = json.Password;\n    var Symbols = json.Symbols;\n    var NewMarket = json.Market;    if(!doc) {\n\tif(req.id){\n\tvar newDoc = {\n\t_id : req.id,\n\tPassword : Password,\n\tSymbols : []};\n\treturn[newDoc, 'New Doc Created']}\n\n   return[doc, 'empty world']; }\n\n   doc.Symbols.push({Symbol : Symbols, Market : NewMarket});\n   return[doc, 'Updated Document'];\t\n}"
+   }
+}
